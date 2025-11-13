@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @amitmoralwar
 - 👀 I’m interested in Python and it's related technologies like Django, Flask, fastapi, REST Api development
-- 🌱 I’m currently learning fastapi
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 This is my linkdn handle:: https://www.linkedin.com/in/amit-moralwar-7342459b/
 
