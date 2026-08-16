@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amit Moralwar
 
-### Senior Software Engineer | Python Django Developer | AI, ML & Security Automation Engineer
+### Senior Software Engineer | Python & Enterprise Application Developer | AI, ML & Security Automation Engineer
 
 📍 Pune, Maharashtra, India  
 📧 [amitmoralwar@gmail.com](mailto:amitmoralwar@gmail.com)  
@@ -10,19 +10,55 @@
 
 ## 🚀 Professional Profile
 
-I’m a **Senior Software Engineer with 8+ years of experience** building cybersecurity automation, backend platforms, REST APIs, enterprise integrations, and intelligent developer workflows.
+I’m a **Senior Software Engineer with 8+ years of experience** building **enterprise-grade applications, web platforms, REST APIs, cybersecurity automation, and AI-powered developer workflows**.
 
-My experience spans **Security Orchestration, Automation and Response (SOAR), Artificial Intelligence, Machine Learning, AI agents, Python engineering, application security, and developer automation**.
+My experience spans **Security Orchestration, Automation and Response (SOAR), Artificial Intelligence, Machine Learning, AI agents, Python engineering, application security, enterprise web development, REST API development, and developer automation**.
 
-I enjoy building practical AI-powered solutions that connect real-world engineering workflows across tools such as **Jira, VS Code, GitHub, Copilot, and security platforms** — reducing repetitive work and helping engineering and security teams move from requirement to implementation faster.
+I have hands-on experience building end-to-end enterprise applications using **Django, Flask, and FastAPI** — covering web development, backend services, REST APIs, database integration, enterprise integrations, testing, CI/CD, and production support.
+
+I enjoy building practical technology solutions that connect real-world engineering workflows across tools such as **Jira, VS Code, GitHub, Copilot, and security platforms** — reducing repetitive work and helping engineering teams move from requirement to implementation faster.
 
 ### ⚡ What I Bring
 
+- **Enterprise Application Engineering:** Experience developing scalable enterprise applications using **Django, Flask, and FastAPI**, covering both web development and REST API development.
+- **Full Backend & API Development:** Strong experience designing backend services, REST APIs, database integrations, business logic, and enterprise application components using Python frameworks.
 - **Cybersecurity + Software Engineering:** Strong combination of SOC automation, application security, Python backend development, APIs, and enterprise integrations.
 - **AI Agent Development:** Experience creating agents that automate engineering and security workflows instead of simply generating text.
 - **Developer Productivity Automation:** Built agent-driven workflows that consume Jira requirements, assist development in VS Code with Copilot, and automate GitHub-based code delivery.
 - **Secure-by-Design Automation:** Built agents to assess whether code follows defined compliance expectations and identify potential vulnerabilities.
 - **Enterprise Automation:** Experience integrating security and enterprise platforms to automate incident response, enrichment, containment, and operational workflows.
+
+---
+
+## 🏢 Enterprise Application Development
+
+I have extensive hands-on experience in **enterprise-level application development using Python**, with responsibility across web applications, backend services, REST APIs, integrations, databases, and delivery workflows.
+
+### 🌐 Enterprise Web Application Development
+
+- Developed and maintained **enterprise-grade web applications** using **Django, Flask, and FastAPI**.
+- Designed backend architectures, business logic, reusable components, and API-driven application workflows.
+- Built web applications integrating databases, internal services, enterprise platforms, and third-party systems.
+- Worked across the application lifecycle including **development, testing, integration, troubleshooting, performance improvement, and production support**.
+
+### 🔌 REST API & Backend Engineering
+
+- Designed and developed **RESTful APIs** using **Django, Flask, and FastAPI**.
+- Built APIs for internal enterprise platforms and applications to expose data and business capabilities securely and reliably.
+- Developed API integrations between multiple enterprise applications and security platforms.
+- Built backend services involving database operations, data processing, integrations, and service-to-service communication.
+
+### 🗄️ Data & Enterprise Integrations
+
+- Experience working with **PostgreSQL, MongoDB, Oracle, and SQLAlchemy**.
+- Integrated enterprise applications and services through REST APIs and automation workflows.
+- Experience connecting applications with platforms such as **BMC Discovery, internal catalogs, Jira, GitHub, and security tooling**.
+
+### ⚙️ Engineering & Delivery
+
+- Experience with **Git, Jenkins, CI/CD, Agile, and JIRA**.
+- Comfortable working across requirements, development, testing, integration, deployment, production support, and continuous improvement.
+- Focused on building maintainable, scalable, secure, and automation-friendly enterprise software.
 
 ---
 
@@ -71,7 +107,7 @@ Together, these workflows demonstrate experience in building **agentic software-
 
 ## 💼 Professional Experience
 
-### 🔐 Mastercard — Senior Software Engineer
+### 🔐 Mastercard — Senior Information Security Engineer
 **Jan 2024 – Present**
 
 - Develop REST APIs using **Flask** for internal security platforms.
@@ -98,7 +134,9 @@ Together, these workflows demonstrate experience in building **agentic software-
 ### 💻 ARRK Solutions — Senior Software Engineer
 **Jul 2019 – Mar 2021**
 
-- Developed backend applications and REST APIs using **Python, Django, and Flask**.
+- Developed **enterprise web applications and backend services** using **Python, Django, and Flask**.
+- Designed and implemented **REST APIs** supporting enterprise application workflows.
+- Worked across web development, backend engineering, database integration, testing, and application support.
 - Collaborated with clients to deliver scalable software solutions.
 - Identified improvements to application performance and reliability.
 
@@ -123,9 +161,9 @@ Together, these workflows demonstrate experience in building **agentic software-
 | Area | Technologies |
 |---|---|
 | **Programming & Data** | Python, JavaScript, Pandas, Matplotlib, PHP, HTML |
+| **Enterprise Application Development** | Django, Flask, FastAPI, Enterprise Web Applications, REST APIs, Backend Development, API Integration |
 | **AI / ML / Agents** | Artificial Intelligence, Machine Learning, Generative AI, AI Agents, Agentic Workflows, LLM-based Automation, Code Analysis |
 | **Cybersecurity & Automation** | Splunk SOAR, SOAR Playbooks, SOC Automation, Incident Response, Vulnerability Analysis, Secure Coding, Microsoft Defender |
-| **Backend & APIs** | Django, Flask, FastAPI, REST APIs, API Integration |
 | **Databases** | PostgreSQL, MongoDB, Oracle, SQLAlchemy |
 | **Developer Tools & Platforms** | VS Code, GitHub, GitHub Copilot, Jira |
 | **DevOps & Engineering** | Jenkins, CI/CD, Git, Agile, JIRA |
@@ -133,6 +171,11 @@ Together, these workflows demonstrate experience in building **agentic software-
 ---
 
 ## 🔥 Featured Engineering Capabilities
+
+### Enterprise Software Engineering
+**Web Application → Backend Services → REST APIs → Database → Enterprise Integrations**
+
+End-to-end experience building enterprise applications using **Django, Flask, and FastAPI**, including web development, backend engineering, REST API development, database integration, and enterprise system integrations.
 
 ### AI-Powered Software Engineering
 **Jira → VS Code → Copilot → Code Changes → GitHub**
@@ -169,6 +212,7 @@ Graduated with **65.75%**
 
 ## 🎯 Areas of Interest
 
+- Enterprise Software & Application Engineering
 - AI Engineering & Agentic AI
 - Machine Learning
 - Generative AI & LLM Applications
@@ -176,18 +220,18 @@ Graduated with **65.75%**
 - Cybersecurity & Application Security
 - Security Automation & SOAR
 - Python Backend Development
+- Django / Flask / FastAPI Development
 - REST API Engineering
 - Automated Vulnerability Detection
 - Secure Coding & Compliance Automation
 - Jira / VS Code / GitHub Developer Workflows
-- Django / Flask / FastAPI Development
 - CI/CD and DevOps Automation
 
 ---
 
 ## 🤝 Let's Connect
 
-I’m open to connecting with **recruiters, engineering leaders, cybersecurity teams, AI teams, and technology companies** looking for engineers who can bridge **software engineering, cybersecurity, automation, and AI-agent development**.
+I’m open to connecting with **recruiters, engineering leaders, cybersecurity teams, AI teams, and technology companies** looking for engineers who can bridge **enterprise software engineering, Python, cybersecurity, automation, and AI-agent development**.
 
 📧 **Email:** [amitmoralwar@gmail.com](mailto:amitmoralwar@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/amit-moralwar-7342459b](https://in.linkedin.com/in/amit-moralwar-7342459b)  
@@ -196,7 +240,7 @@ I’m open to connecting with **recruiters, engineering leaders, cybersecurity t
 
 ---
 
-> **Building intelligent, secure automation that turns requirements into production-ready software.** 🚀
+> **Building intelligent, secure enterprise software that turns requirements into production-ready solutions.** 🚀
 
 <!--
 amitmoralwar/amitmoralwar is a special GitHub profile repository. The README.md in this repository is displayed on the user's GitHub profile.
