@@ -71,7 +71,7 @@ Together, these workflows demonstrate experience in building **agentic software-
 
 ## 💼 Professional Experience
 
-### 🔐 Mastercard — Senior Information Security Engineer
+### 🔐 Mastercard — Senior Software Engineer
 **Jan 2024 – Present**
 
 - Develop REST APIs using **Flask** for internal security platforms.
