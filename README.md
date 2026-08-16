@@ -4,7 +4,9 @@
 
 📍 Pune, Maharashtra, India  
 📧 [amitmoralwar@gmail.com](mailto:amitmoralwar@gmail.com)  
-🔗 [LinkedIn](https://in.linkedin.com/in/amit-moralwar-7342459b) • [HackerRank](https://www.hackerrank.com/profile/amitmoralwar1)
+🔗 [LinkedIn](https://in.linkedin.com/in/amit-moralwar-7342459b) • [HackerRank](https://www.hackerrank.com/profile/amitmoralwar1) • [Upwork](https://www.upwork.com/freelancers/~012df1e1564268d31f?mp_source=share)
+
+> **I’m a software engineer who brings together enterprise application development, Python, AI/ML, cybersecurity, and intelligent automation to turn complex business requirements into secure, scalable, production-ready solutions.**
 
 ---
 
@@ -70,23 +72,13 @@ A key area of my recent work is **AI-powered engineering automation and autonomo
 
 Built AI-agent workflows capable of analyzing source code to help determine whether it is **compliant with defined coding/security requirements** and identify **potential security vulnerabilities**.
 
-The goal is to move security checks closer to the development workflow by allowing an agent to inspect code, reason about potential issues, and provide actionable feedback.
-
 ### 🎫 Jira → VS Code Development Agent
 
-Built an agent-driven development workflow that can:
-
-1. Fetch relevant **Jira ticket information** directly into the developer workflow.
-2. Bring requirements and implementation context into **VS Code**.
-3. Use **GitHub Copilot** to assist with understanding the requirement and implementing the required code changes.
-4. Update the codebase based on the Jira requirement.
-5. Continue the workflow toward source-control delivery through GitHub automation.
-
-This creates a powerful **requirement → development → code change** workflow with significantly less manual context switching for developers.
+Built an agent-driven development workflow that can fetch **Jira ticket information**, bring requirements into **VS Code**, use **GitHub Copilot** to assist with implementation, update the codebase, and continue toward source-control delivery through GitHub automation.
 
 ### 🔄 GitHub Code Delivery Agent
 
-Built GitHub-agent workflows that can work with the updated code and **push changes to GitHub**, helping automate the final stages of the software-development lifecycle.
+Built GitHub-agent workflows that can work with updated code and **push changes to GitHub**, helping automate the final stages of the software-development lifecycle.
 
 Together, these workflows demonstrate experience in building **agentic software-development pipelines**, not just standalone AI experiments.
 
@@ -255,9 +247,9 @@ I’m open to connecting with **recruiters, engineering leaders, cybersecurity t
 
 📧 **Email:** [amitmoralwar@gmail.com](mailto:amitmoralwar@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/amit-moralwar-7342459b](https://in.linkedin.com/in/amit-moralwar-7342459b)  
-💻 **GitHub:** [github.com/amitmoralwar](https://github.com/amitmoralwar)  
 🏅 **HackerRank:** [hackerrank.com/profile/amitmoralwar1](https://www.hackerrank.com/profile/amitmoralwar1)  
-💼 **Upwork:** [View my freelancing profile](https://www.upwork.com/freelancers/~012df1e1564268d31f?mp_source=share)
+💼 **Upwork:** [View my freelancing profile](https://www.upwork.com/freelancers/~012df1e1564268d31f?mp_source=share)  
+💻 **GitHub:** [github.com/amitmoralwar](https://github.com/amitmoralwar)
 
 ---
 
