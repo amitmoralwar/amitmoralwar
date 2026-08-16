@@ -110,7 +110,7 @@ Together, these workflows demonstrate experience in building **agentic software-
 ### 🔐 Mastercard — Senior Software Engineer
 **Jan 2024 – Present**
 
-- Currently working on Application Development using **Django** for organization wide use case.
+- Currently working on Application Development using **Django** for organization-wide use cases.
 - Develop REST APIs using **Flask** for internal security platforms.
 - Design and implement **Splunk SOAR playbooks** for SOC automation.
 - Automate incident **enrichment, containment, and response** workflows.
@@ -195,6 +195,25 @@ SOAR-based automation for SOC workflows and rapid incident response.
 
 ---
 
+## 💼 Freelancing & Client Work
+
+I also take on **freelance software engineering and automation projects**, helping clients with Python development, backend/API engineering, enterprise application development, automation, and AI-powered solutions.
+
+### 🚀 Freelance Services
+
+- Python application development
+- Django, Flask & FastAPI development
+- Enterprise web application development
+- REST API development and integrations
+- Backend engineering and database integration
+- AI agent and workflow automation
+- Code analysis and security automation
+- Application modernization and API refactoring
+
+👉 **[View my Upwork profile and freelancing work](https://www.upwork.com/freelancers/~012df1e1564268d31f?mp_source=share)**
+
+---
+
 ## 🏆 Certifications
 
 - Splunk SOAR Administration
@@ -232,12 +251,13 @@ Graduated with **65.75%**
 
 ## 🤝 Let's Connect
 
-I’m open to connecting with **recruiters, engineering leaders, cybersecurity teams, AI teams, and technology companies** looking for engineers who can bridge **enterprise software engineering, Python, cybersecurity, automation, and AI-agent development**.
+I’m open to connecting with **recruiters, engineering leaders, cybersecurity teams, AI teams, clients, and technology companies** looking for engineers who can bridge **enterprise software engineering, Python, cybersecurity, automation, and AI-agent development**.
 
 📧 **Email:** [amitmoralwar@gmail.com](mailto:amitmoralwar@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/amit-moralwar-7342459b](https://in.linkedin.com/in/amit-moralwar-7342459b)  
 💻 **GitHub:** [github.com/amitmoralwar](https://github.com/amitmoralwar)  
-🏅 **HackerRank:** [hackerrank.com/profile/amitmoralwar1](https://www.hackerrank.com/profile/amitmoralwar1)
+🏅 **HackerRank:** [hackerrank.com/profile/amitmoralwar1](https://www.hackerrank.com/profile/amitmoralwar1)  
+💼 **Upwork:** [View my freelancing profile](https://www.upwork.com/freelancers/~012df1e1564268d31f?mp_source=share)
 
 ---
 
