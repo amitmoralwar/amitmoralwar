@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amit Moralwar
 
-### Software Engineer | Python | Django | FastAPI | Flask | AI Agents | Cybersecurity Automation
+### Software Engineer | Python | Django | FastAPI | Flask | AI Agents | ML | Cybersecurity Automation
 
 📍 Pune, Maharashtra, India  
 📧 [amitmoralwar@gmail.com](mailto:amitmoralwar@gmail.com)  
