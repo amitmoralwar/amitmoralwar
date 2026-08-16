@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amit Moralwar
 
-### Senior Information Security Engineer | Python Developer | AI & Security Automation Engineer
+### Senior Software Engineer | Python Django Developer | AI, ML & Security Automation Engineer
 
 📍 Pune, Maharashtra, India  
 📧 [amitmoralwar@gmail.com](mailto:amitmoralwar@gmail.com)  
@@ -10,7 +10,7 @@
 
 ## 🚀 Professional Profile
 
-I’m a **Senior Information Security Engineer and Python developer with 8+ years of experience** building cybersecurity automation, backend platforms, REST APIs, enterprise integrations, and intelligent developer workflows.
+I’m a **Senior Software Engineer with 8+ years of experience** building cybersecurity automation, backend platforms, REST APIs, enterprise integrations, and intelligent developer workflows.
 
 My experience spans **Security Orchestration, Automation and Response (SOAR), Artificial Intelligence, Machine Learning, AI agents, Python engineering, application security, and developer automation**.
 
@@ -26,7 +26,7 @@ I enjoy building practical AI-powered solutions that connect real-world engineer
 
 ---
 
-## 🤖 AI, Machine Learning & Agent Engineering
+## 🤖 AI, Machine Learning & Agentic AI Engineering
 
 A key area of my recent work is **AI-powered engineering automation and autonomous/agentic workflows**.
 
