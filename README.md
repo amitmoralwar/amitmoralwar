@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amit Moralwar
 
-### Senior Information Security Engineer | Python Developer | Splunk SOAR Automation
+### Senior Information Security Engineer | Python Developer | AI & Security Automation Engineer
 
 📍 Pune, Maharashtra, India  
 📧 [amitmoralwar@gmail.com](mailto:amitmoralwar@gmail.com)  
@@ -8,13 +8,64 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 Professional Profile
 
-I’m a Senior Information Security Engineer and Python developer with **8+ years of experience** across cybersecurity automation, backend development, REST APIs, and enterprise application integration.
+I’m a **Senior Information Security Engineer and Python developer with 8+ years of experience** building cybersecurity automation, backend platforms, REST APIs, enterprise integrations, and intelligent developer workflows.
 
-My current focus is on **Security Orchestration, Automation and Response (SOAR)**, Python-based backend engineering, and building automation that helps Security Operations Centers respond to incidents faster and more consistently.
+My experience spans **Security Orchestration, Automation and Response (SOAR), Artificial Intelligence, Machine Learning, AI agents, Python engineering, application security, and developer automation**.
 
-I enjoy turning complex operational workflows into reliable, maintainable automation and building practical software that solves real-world problems.
+I enjoy building practical AI-powered solutions that connect real-world engineering workflows across tools such as **Jira, VS Code, GitHub, Copilot, and security platforms** — reducing repetitive work and helping engineering and security teams move from requirement to implementation faster.
+
+### ⚡ What I Bring
+
+- **Cybersecurity + Software Engineering:** Strong combination of SOC automation, application security, Python backend development, APIs, and enterprise integrations.
+- **AI Agent Development:** Experience creating agents that automate engineering and security workflows instead of simply generating text.
+- **Developer Productivity Automation:** Built agent-driven workflows that consume Jira requirements, assist development in VS Code with Copilot, and automate GitHub-based code delivery.
+- **Secure-by-Design Automation:** Built agents to assess whether code follows defined compliance expectations and identify potential vulnerabilities.
+- **Enterprise Automation:** Experience integrating security and enterprise platforms to automate incident response, enrichment, containment, and operational workflows.
+
+---
+
+## 🤖 AI, Machine Learning & Agent Engineering
+
+A key area of my recent work is **AI-powered engineering automation and autonomous/agentic workflows**.
+
+### 🛡️ Code Compliance & Vulnerability Analysis Agent
+
+Built AI-agent workflows capable of analyzing source code to help determine whether it is **compliant with defined coding/security requirements** and identify **potential security vulnerabilities**.
+
+The goal is to move security checks closer to the development workflow by allowing an agent to inspect code, reason about potential issues, and provide actionable feedback.
+
+### 🎫 Jira → VS Code Development Agent
+
+Built an agent-driven development workflow that can:
+
+1. Fetch relevant **Jira ticket information** directly into the developer workflow.
+2. Bring requirements and implementation context into **VS Code**.
+3. Use **GitHub Copilot** to assist with understanding the requirement and implementing the required code changes.
+4. Update the codebase based on the Jira requirement.
+5. Continue the workflow toward source-control delivery through GitHub automation.
+
+This creates a powerful **requirement → development → code change** workflow with significantly less manual context switching for developers.
+
+### 🔄 GitHub Code Delivery Agent
+
+Built GitHub-agent workflows that can work with the updated code and **push changes to GitHub**, helping automate the final stages of the software-development lifecycle.
+
+Together, these workflows demonstrate experience in building **agentic software-development pipelines**, not just standalone AI experiments.
+
+### 🧠 AI / ML Focus Areas
+
+- Artificial Intelligence
+- Machine Learning
+- Generative AI
+- AI Agents / Agentic Workflows
+- LLM-powered Developer Tools
+- Code Analysis & Security Reasoning
+- Automated Vulnerability Detection
+- Compliance & Secure Coding Analysis
+- AI-assisted Software Development
+- Tool/API Integration for AI Agents
 
 ---
 
@@ -28,6 +79,7 @@ I enjoy turning complex operational workflows into reliable, maintainable automa
 - Automate incident **enrichment, containment, and response** workflows.
 - Integrate enterprise applications including **BMC Discovery** and internal catalog platforms.
 - Work on rapid incident response using **Splunk SOAR and Microsoft Defender**.
+- Build and explore intelligent automation and AI-agent approaches for improving software engineering and security workflows.
 
 ### 🛡️ Tech Mahindra — Information Security Engineer
 **Jul 2022 – Jan 2024**
@@ -70,12 +122,32 @@ I enjoy turning complex operational workflows into reliable, maintainable automa
 
 | Area | Technologies |
 |---|---|
-| **Programming** | Python, PHP, HTML |
-| **Security & Automation** | Splunk SOAR, SOAR Playbooks, SOC Automation, Incident Response, Microsoft Defender |
+| **Programming & Data** | Python, JavaScript, Pandas, Matplotlib, PHP, HTML |
+| **AI / ML / Agents** | Artificial Intelligence, Machine Learning, Generative AI, AI Agents, Agentic Workflows, LLM-based Automation, Code Analysis |
+| **Cybersecurity & Automation** | Splunk SOAR, SOAR Playbooks, SOC Automation, Incident Response, Vulnerability Analysis, Secure Coding, Microsoft Defender |
 | **Backend & APIs** | Django, Flask, FastAPI, REST APIs, API Integration |
 | **Databases** | PostgreSQL, MongoDB, Oracle, SQLAlchemy |
-| **DevOps** | Jenkins, CI/CD, Git |
-| **Ways of Working** | Agile, JIRA |
+| **Developer Tools & Platforms** | VS Code, GitHub, GitHub Copilot, Jira |
+| **DevOps & Engineering** | Jenkins, CI/CD, Git, Agile, JIRA |
+
+---
+
+## 🔥 Featured Engineering Capabilities
+
+### AI-Powered Software Engineering
+**Jira → VS Code → Copilot → Code Changes → GitHub**
+
+Agentic workflow that connects requirements management, AI-assisted implementation, code modification, and source-control delivery.
+
+### AI-Powered Security Engineering
+**Source Code → Compliance Analysis → Vulnerability Detection → Actionable Feedback**
+
+Agent-driven approach for bringing security and compliance checks into the development lifecycle.
+
+### Security Operations Automation
+**Security Event → Enrichment → Investigation → Containment → Response**
+
+SOAR-based automation for SOC workflows and rapid incident response.
 
 ---
 
@@ -95,22 +167,27 @@ Graduated with **65.75%**
 
 ---
 
-## 🔎 What I'm Interested In
+## 🎯 Areas of Interest
 
-- Cybersecurity Automation & SOAR
+- AI Engineering & Agentic AI
+- Machine Learning
+- Generative AI & LLM Applications
+- AI-powered Developer Tools
+- Cybersecurity & Application Security
+- Security Automation & SOAR
 - Python Backend Development
 - REST API Engineering
-- Security Integrations
-- SOC / Incident Response Automation
+- Automated Vulnerability Detection
+- Secure Coding & Compliance Automation
+- Jira / VS Code / GitHub Developer Workflows
 - Django / Flask / FastAPI Development
 - CI/CD and DevOps Automation
-- Open-source collaboration
 
 ---
 
 ## 🤝 Let's Connect
 
-I’m open to connecting with **recruiters, engineering teams, cybersecurity professionals, and collaborators** for opportunities involving Python, cybersecurity automation, SOAR, backend engineering, and API development.
+I’m open to connecting with **recruiters, engineering leaders, cybersecurity teams, AI teams, and technology companies** looking for engineers who can bridge **software engineering, cybersecurity, automation, and AI-agent development**.
 
 📧 **Email:** [amitmoralwar@gmail.com](mailto:amitmoralwar@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/amit-moralwar-7342459b](https://in.linkedin.com/in/amit-moralwar-7342459b)  
@@ -119,7 +196,7 @@ I’m open to connecting with **recruiters, engineering teams, cybersecurity pro
 
 ---
 
-> **Building secure automation with Python, one workflow at a time.** 🚀
+> **Building intelligent, secure automation that turns requirements into production-ready software.** 🚀
 
 <!--
 amitmoralwar/amitmoralwar is a special GitHub profile repository. The README.md in this repository is displayed on the user's GitHub profile.
